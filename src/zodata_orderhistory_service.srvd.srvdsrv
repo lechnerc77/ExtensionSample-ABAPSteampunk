@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service definition for Order History'
+define service ZODATA_ORDERHISTORY_Service {
+  expose ZZ_OH_OrderHistory_C_View as OrderHistory;
+}
