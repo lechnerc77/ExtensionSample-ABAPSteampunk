@@ -1,6 +1,6 @@
 # ABAP Steampunk Service for Orderhistory
 
-![Overview](./pics/Overview_ABAP.png)
+![Overview](./pics/Overview_ABAP_WhiteBG.png)
 
 This repository contains the source code for the SAP Commerce Cloud mock including all files relevant for building the docker image and deploying the application to Kyma.
 
